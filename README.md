@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tom-walkr
-- 👀 I’m interested in additive manufacturing, machine learning and product development.
-- 🌱 I’m currently learning how to use python and pytorch lightning to predict printed part mechanical properties.
+- 👀 I’m interested in digital manufacturing, ML, user-centric design and product development.
+- 🌱 I’m currently learning to build beautiful and performant frontends with Vue and Typescript.
 - 📫 How to reach me: tomwalker902@gmail.com 
 
 <!---
